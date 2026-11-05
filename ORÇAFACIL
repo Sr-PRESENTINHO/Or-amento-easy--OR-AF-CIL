@@ -1,0 +1,25 @@
+## OrçaFácil
+
+O OrçaFácil é um aplicativo de gestão para profissionais e empresas da construção civil. Ele reúne em um só lugar o cadastro de clientes, materiais e serviços, a criação de orçamentos, o acompanhamento financeiro e a geração de documentos em PDF.
+
+### Orçamentos e clientes
+
+Cadastre clientes com seus dados de contato e consulte o histórico relacionado a eles. Monte orçamentos com serviços, mão de obra e materiais, incluindo quantidades, custos e valores. O app calcula os totais e permite acompanhar o andamento de cada orçamento.
+
+### Materiais e serviços
+
+Mantenha catálogos próprios de materiais e serviços, com preços e informações que podem ser reutilizados ao criar novos orçamentos. Isso facilita a preparação de propostas e o controle dos custos envolvidos.
+
+### Pagamentos e recibos
+
+Registre pagamentos vinculados a um orçamento, inclusive pagamentos parciais. O financeiro é atualizado com os valores recebidos, o total pago e o saldo restante. Você também pode gerar um recibo em PDF com o valor total do serviço, incluindo materiais, o valor recebido naquela parcela e o saldo. A lista de materiais pode ser ocultada no recibo, sem apresentar os preços individuais dos itens.
+
+### Financeiro e relatórios
+
+Acompanhe entradas, despesas relacionadas aos materiais e resultados financeiros. Consulte relatórios por período para entender os valores recebidos, os custos e o resultado dos serviços.
+
+### PDFs, Excel e armazenamento
+
+Gere PDFs de orçamentos e recibos; o app informa onde cada arquivo foi salvo e permite abrir a pasta correspondente. Os dados e backups ficam armazenados localmente no computador, na pasta **Documentos\OrçaFácil**. As informações também podem ser exportadas para planilhas Excel.
+
+O OrçaFácil funciona como aplicativo de computador e mantém os dados no próprio computador, sem depender de uma conta ou serviço online.
